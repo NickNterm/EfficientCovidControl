@@ -9,3 +9,9 @@ After having the hardware ready we should also prepare the software. First the h
 
 ## main.py
 You can find more details in the code comments.
+
+## delete_data.py
+This file just clear the *data.txt* file.
+
+## data.txt
+This file is used to store the data of the measurements.
